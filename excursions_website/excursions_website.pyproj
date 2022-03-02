@@ -33,6 +33,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="html\" />
+    <Folder Include="html\main_page\" />
+    <Folder Include="html\main_page\images\" />
     <Folder Include="static\" />
     <Folder Include="static\content\" />
     <Folder Include="static\fonts\" />
@@ -40,6 +42,24 @@
     <Folder Include="views\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="html\main_page\images\1643605452_1-papik-pro-p-logotip-turagentstva-1-3.png" />
+    <Content Include="html\main_page\images\1643605452_1-papik-pro-p-logotip-turagentstva-1.png" />
+    <Content Include="html\main_page\images\6a81c3b1621a2a6371953766cf28a5a403dee8d123096fc4b468e2db60c713054d1a5e2cd5fbc8b8e493bebb4814f3a781351124561b40de68d8b5_1280.jpg" />
+    <Content Include="html\main_page\images\8ca08bf4dfc34cb4f407e672f576ee1c28ea8c9217ab8b23b1c7ec9579aec2a58df2306ee9fe45f170dde66cc6032ba39ea7dce24fc81c5ed89cc0_1280.jpg" />
+    <Content Include="html\main_page\images\d6c10938a9f892a3769592080b401db4b1ff8bf52736c6f1053a106d94a474ab8c7a7c550cb558066b6e969885090908b7ebdb4062a4e38f25b98e_1280.jpg" />
+    <Content Include="html\main_page\images\default-image.jpg" />
+    <Content Include="html\main_page\index.html" />
+    <Content Include="html\main_page\jquery.js" />
+    <Content Include="html\main_page\nicepage.css" />
+    <Content Include="html\main_page\nicepage.js" />
+    <Content Include="html\main_page\Главная.css" />
+    <Content Include="html\main_page\Главная.html" />
+    <Content Include="html\main_page\Контакты.css" />
+    <Content Include="html\main_page\Контакты.html" />
+    <Content Include="html\main_page\О-нас.css" />
+    <Content Include="html\main_page\О-нас.html" />
+    <Content Include="html\main_page\Страница-1.css" />
+    <Content Include="html\main_page\Страница-1.html" />
     <Content Include="html\proba.html" />
     <Content Include="requirements.txt" />
     <Content Include="static\content\bootstrap.css" />
